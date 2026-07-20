@@ -1,0 +1,8 @@
+{
+  "appId": "com.emarbiland.dmtoolkit",
+  "appName": "Toolkit DM",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#14131c"
+  }
+}
